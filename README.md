@@ -1,14 +1,13 @@
 # Superstore Sales Dashboard (Power BI)
 
-![Dashboard Preview](/mnt/data/Screenshot 2025-10-02 130338.png)
 
 ---
 
-## 🎯 Purpose / Project Goal
+## Purpose / Project Goal
 
 The goal of this project is to analyze **Superstore Sales Performance** across multiple dimensions — regions, countries, product categories, and sub-categories — to identify profitable areas, reveal sales trends, and surface opportunities for business improvement. The dashboard consolidates key performance indicators and interactive visuals so business stakeholders can quickly spot revenue drivers, understand margin performance, and prioritize corrective or growth actions.
 
-## 📌 Business / Problem Statement
+## Business / Problem Statement
 
 The company seeks to **maximize profitability and optimize its sales strategy** by answering the following business questions:
 
@@ -21,7 +20,7 @@ By addressing these questions, the dashboard helps leadership allocate marketing
 
 ---
 
-## 📌 What I Did
+## What I Did
 
 1. **Connected & prepared the dataset**: Imported the Superstore dataset (Excel/CSV) into Power BI and validated schema & types.
 2. **Data cleaning & transformation**: Handled missing values, standardized categorical labels, and created calculated measures (Total Sales, Profit, Quantity, Discount) using Power Query and DAX.
@@ -31,7 +30,7 @@ By addressing these questions, the dashboard helps leadership allocate marketing
 
 ---
 
-## 📌 Key Insights
+## Key Insights
 
 * **Total Performance:** Total Sales ≈ $4M; Profit ≈ $436K from ~41K units sold.
 * **Category concentration:** Technology and Office Supplies account for the largest share of sales, followed by Furniture.
@@ -42,7 +41,7 @@ By addressing these questions, the dashboard helps leadership allocate marketing
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 
 * **Power BI Desktop** — data modeling, DAX measures, and report creation.
 * **DAX (Data Analysis Expressions)** — measures and calculated columns for KPIs and business logic.
@@ -51,22 +50,14 @@ By addressing these questions, the dashboard helps leadership allocate marketing
 
 ---
 
-## 📁 Files (suggested repository structure)
-
-```
-/ Superstore-PowerBI-Project
-  ├─ dataset/
-  │   └─ superstore.csv
-  ├─ pbix/
-  │   └─ Superstore_Dashboard.pbix
-  ├─ images/
-  │   └─ Screenshot 2025-10-02 130338.png
-  └─ README.md
-```
+## **Dashboard Preview**
+<p align="center">
+  <img src="Image.png" alt="Mobile Sales Dashboard" width="800">
+</p>
 
 ---
 
-## 📞 Contact
+## Contact
 
 Email: [vivekkumar04x@gmail.com](mailto:vivekkumar04x@gmail.com)
 
